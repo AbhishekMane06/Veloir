@@ -1,16 +1,80 @@
-# React + Vite
+<h1 align="center">✨ Veloir — Premium Cocktail UI with Smooth GSAP Animations 🍸</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <a href="https://veloirmojito.netlify.app/">
+    <img src="public/images/bannerimg.png" alt="Veloir Banner" />
+  </a>
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <em>A sleek, elegant, and modern cocktail-themed UI featuring luxurious GSAP animations and smooth text transitions.</em>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<hr>
 
-## React Compiler
+## 🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🌐 **[Click here to explore Veloir](https://veloir-delta.vercel.app/)**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- ✨ **GSAP-powered SplitText animations**
+- 🍸 **Luxurious and modern cocktail-themed UI**
+- 🧊 **Smooth fade, slide, and reveal effects**
+- 💨 **Scroll-based and timeline-based animations**
+- 🎨 **Stylish gradients and clean visual hierarchy**
+- 📱 **Fully responsive and mobile-friendly**
+- ⚡ **Built with Vite for blazing-fast performance**
+
+---
+
+## 🧰 Tech Stack
+
+- **React.js** – Component-based UI  
+- **Vite** – Fast development environment  
+- **Tailwind CSS** – Utility-first styling  
+- **GSAP** – High-performance animations  
+- **SplitText Plugin** – Character/word-level text split animations  
+
+---
+
+## 🗂️ Folder Structure
+<pre>
+VELOIR/
+├── constants/
+│   └── index.js              # Centralized constants / data
+├── node_modules/             # Dependencies
+├── public/
+│   ├── fonts/                # Custom font files
+│   ├── images/               # Project images
+│   └── videos/               # Video assets (if any)
+├── src/
+│   ├── components/
+│   │   ├── About.jsx         # About section component
+│   │   ├── Art.jsx           # Decorative / Art section
+│   │   ├── Cocktails.jsx     # Cocktails display section
+│   │   ├── Contact.jsx       # Contact section
+│   │   ├── Hero.jsx          # Hero section with GSAP animations
+│   │   └── Navbar.jsx        # Navigation bar
+│   ├── App.jsx               # Main App component
+│   ├── index.css             # Global Tailwind & styles
+│   └── main.jsx              # Vite + React entry point
+├── index.html                # Root HTML file
+├── package.json              # Dependencies & scripts
+├── package-lock.json         # Lock file
+├── vite.config.js            # Vite configuration
+└── README.md                 # Project documentation
+</pre>
+
+---
+
+## 📩 Contact
+
+📧 Email: **[maneabhishek2003@gmail.com](mailto:maneabhishek2003@gmail.com)**
+
+🔗 Socials:  
+**[LinkedIn](https://www.linkedin.com/in/abhishek-mane-9491422b8)** | **[GitHub](https://github.com/AbhishekMane06)**
+
+---
